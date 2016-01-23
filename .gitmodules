@@ -4,3 +4,6 @@
 [submodule "Iterator"]
 	path = Iterator
 	url = git@github.com:ChristianFrisson/InspectorWidgetIterator.git
+[submodule "Processor"]
+	path = Processor
+	url = git@github.com:ChristianFrisson/InspectorWidgetProcessor.git
