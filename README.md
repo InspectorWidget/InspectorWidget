@@ -14,9 +14,9 @@ InspectorWidget is targeted at end users, usability experts and HCI researchers.
 ## Components
 
 InspectorWidget is composed of three tools:
-- [Collector](https://github.com/ChristianFrisson/Collector): Record (screen), Log (input events) 
-- [Iterator](https://github.com/ChristianFrisson/Iterator): Browse (screen + input events), Program (annotations), Analyze (worflows)
-- [Processor](https://github.com/ChristianFrisson/Processor): Automate (annotations)
+- [Collector](https://github.com/ChristianFrisson/InspectorWidgetCollector): Record (screen), Log (input events) 
+- [Iterator](https://github.com/ChristianFrisson/InspectorWidgetIterator): Browse (screen + input events), Program (annotations), Analyze (worflows)
+- [Processor](https://github.com/ChristianFrisson/InspectorWidgetProcessor): Automate (annotations)
 
 ## Installation
 ```
