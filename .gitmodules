@@ -1,3 +1,6 @@
 [submodule "Collector"]
 	path = Collector
 	url = git@github.com:ChristianFrisson/InspectorWidgetCollector.git
+[submodule "Iterator"]
+	path = Iterator
+	url = git@github.com:ChristianFrisson/InspectorWidgetIterator.git
