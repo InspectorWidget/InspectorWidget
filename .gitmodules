@@ -1,0 +1,3 @@
+[submodule "Collector"]
+	path = Collector
+	url = git@github.com:ChristianFrisson/InspectorWidgetCollector.git
