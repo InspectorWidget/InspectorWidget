@@ -30,6 +30,6 @@ git submodule update --init --recursive
 The InspectorWidget suite is released under the terms of the [GPLv3](http://www.gnu.org/licenses/gpl-3.0.html) license.
 
 ## Authors
- * [Christian Frisson](http://christian.frisson.re) (University of Mons): creator and main developer
+ * [Christian Frisson](http://christian.frisson.re) (initially University of Mons, now Inria Lille): creator and main developer
  * [Gilles Bailly](http://www.gillesbailly.fr) (LTCI, CNRS, Télécom-ParisTech): contributor
- * [Sylvain Malacria](http://www.malacria.fr) (INRIA Lille): contributor
+ * [Sylvain Malacria](http://www.malacria.fr) (Inria Lille): contributor

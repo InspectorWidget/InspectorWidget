@@ -1,6 +1,7 @@
 [submodule "Collector"]
 	path = Collector
 	url = git@github.com:ChristianFrisson/InspectorWidgetCollector.git
+	branch = InspectorWidget
 [submodule "Iterator"]
 	path = Iterator
 	url = git@github.com:ChristianFrisson/InspectorWidgetIterator.git
