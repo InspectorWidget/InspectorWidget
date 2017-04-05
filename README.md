@@ -13,17 +13,24 @@ InspectorWidget is targeted at end users, usability experts, user experience and
 
 ## Distribution
 
-[InspectorWidget](https://github.com/ChristianFrisson/InspectorWidget) is composed of three tools:
-- [Collector](https://github.com/ChristianFrisson/InspectorWidgetCollector): Record (screen), Log (input events) 
-- [Iterator](https://github.com/ChristianFrisson/InspectorWidgetIterator): Browse (screen + input events), Program (annotations), Analyze (worflows)
-- [Processor](https://github.com/ChristianFrisson/InspectorWidgetProcessor): Automate (annotations)
+[InspectorWidget](https://github.com/InspectorWidget/InspectorWidget) is composed of three tools:
+- [Collector](https://github.com/InspectorWidget/InspectorWidgetCollector): Record (screen), Log (input events + accessibility) 
+- [Iterator](https://github.com/InspectorWidget/InspectorWidgetIterator): Browse (screen + input events), Program (annotations), Analyze (worflows)
+- [Processor](https://github.com/InspectorWidget/InspectorWidgetProcessor): Automate (annotations)
 
 ## Installation
+
+### Applications
+
+Ready-to-use applications are available for [Collector](https://github.com/InspectorWidget/InspectorWidgetCollector/releases) and [Iterator](https://github.com/InspectorWidget/InspectorWidgetIterator/releases) currently only for macOS 10.9+.
+
+### Compilation
 First clone the repository.
 Then open a terminal in the source directory to update all submodules:
 ```
 git submodule update --init --recursive
 ```
+Then follow the instructions for each tool in their README.md files.
 
 ## License
 
