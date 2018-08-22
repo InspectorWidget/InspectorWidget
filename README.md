@@ -11,6 +11,8 @@ The key contributions of InspectorWidget are:
 
 InspectorWidget is targeted at end users, usability experts, user experience and HCI researchers.
 
+For more information, please read: Christian Frisson, Sylvain Malacria, Gilles Bailly, and Thierry Dutoit. 2016. InspectorWidget: A System to Analyze Users Behaviors in Their Applications. In Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems (CHI EA '16). ACM, pp 1548-1554. DOI: https://doi.org/10.1145/2851581.2892388 HAL: https://hal.inria.fr/hal-01418184
+
 ## Distribution
 
 [InspectorWidget](https://github.com/InspectorWidget/InspectorWidget) is composed of three tools:
