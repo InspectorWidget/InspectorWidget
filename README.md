@@ -39,6 +39,6 @@ Then follow the instructions for each tool in their README.md files.
 The InspectorWidget suite is released under the terms of the [GPLv3](http://www.gnu.org/licenses/gpl-3.0.html) license.
 
 ## Authors
- * [Christian Frisson](http://christian.frisson.re) (initially University of Mons, now Inria Lille): creator and main developer
- * [Gilles Bailly](http://www.gillesbailly.fr) (LTCI, CNRS, Télécom-ParisTech): contributor
- * [Sylvain Malacria](http://www.malacria.fr) (Inria Lille): contributor
+ * [Christian Frisson](http://christian.frisson.re) (initially University of Mons, then Inria Lille - Nord Europe, now University of Calgary): creator and main developer
+ * [Gilles Bailly](http://www.gillesbailly.fr) (CNRS, Sorbonne Université): contributor
+ * [Sylvain Malacria](http://www.malacria.fr) (Inria Lille - Nord Europe): contributor
